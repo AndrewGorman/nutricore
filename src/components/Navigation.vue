@@ -30,6 +30,16 @@
                 />
                 About
             </router-link>
+            <router-link
+                to="/counseling"
+                class="nav-item"
+            >
+                <font-awesome-icon
+                    size="1x"
+                    :icon="['fas', 'list-ul']"
+                />
+                Counseling
+            </router-link>
         </div>
     </div>
 <!--    <b-collapse-->
