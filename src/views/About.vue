@@ -1,11 +1,11 @@
 <template>
-
+    <div>hi</div>
 </template>
 
 <script>
     export default {
         name: "About.vue"
-    }
+    };
 </script>
 
 <style scoped>
